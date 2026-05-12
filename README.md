@@ -91,4 +91,4 @@ it, that's my definition of a job well done.
 
 ---
 
-📫 [LinkedIn](linkedin.com/in/francesco-stagni-5b4687399) · ✉️ [your@email.com](fsdn61@gmail.com)
+📫 [LinkedIn](https://linkedin.com/in/francesco-stagni-5b4687399) · ✉️ [fsdn61@gmail.com](mailto:fsdn61@gmail.com)
