@@ -40,6 +40,7 @@ contacts, qualifies intent, and flags only the serious ones. I stopped
 reading irrelevant messages entirely.
 
 **Financial Tracker**
+[Finance Tracker Bot](https://github.com/Francesco-Stagni/finance-tracker-bot)
 Automated personal finance pipeline. Transactions go in, structured insight
 comes out. Zero manual overhead.
 
