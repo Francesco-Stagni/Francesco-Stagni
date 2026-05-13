@@ -34,7 +34,7 @@ you're not already on it.
 
 ## Projects
 
-**Apartment Screening Bot**
+[Apartment Rental Inquiry Automation](https://github.com/Francesco-Stagni/apartment-classifier)
 Built to filter inbound inquiries for my apartment rental. The bot screens
 contacts, qualifies intent, and flags only the serious ones. I stopped
 reading irrelevant messages entirely.
